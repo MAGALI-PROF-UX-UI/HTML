@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>aula2 ex: 2</title>
+    <script>
+        function mudarcor(){
+            var bg_color = document.getElementById("input5")
+            var botao = document.getElementById("input4")
+            botao.style.backgroundColor = bg_color.value;
+        }
+    </script>
+    </head>
+    <body>
+        <h1>Testando inputs</h1>
+        <hr>
+        <label for="input1">Texto aqui:</label>
+        <input id="input1" type="text">
+
+        <hr>
+        <p for="input2">Barra</label>
+        <input id="input2" type="range" step="5">
+
+        <hr>
+        <label for="input3">data:</label>
+        <input id="input3" type="date">
+
+        <hr>
+        <label for="input4">botão:</label>
+        <input id="input4" type="button" value="Mudar cor" onclick="mudarcor()">
+
+        <hr>
+        <label for="input5">color:</label>
+        <input id="input5" type="color">
+
+    </body>
+</html>
