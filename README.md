@@ -6,7 +6,7 @@ conteudo das aulas
 - tags
 - primeira pagina HTML
 
-## Aula 2 - [TAGAS](https://github.com/MAGALI-PROF-UX-UI/HTML/tree/main/Aula2)
+## Aula 2 - [TAGS](https://github.com/MAGALI-PROF-UX-UI/HTML/tree/main/Aula2)
 - Uso das tags <a> e <img>
 - Uso de atributos
 - introdução a CSS
