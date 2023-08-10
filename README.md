@@ -5,4 +5,9 @@ conteudo das aulas
 - introdução a o HTML
 - tags
 - primeira pagina HTML
-  
+
+## Aula 2 - [TAGSA](https://github.com/MAGALI-PROF-UX-UI/HTML/tree/main/Aula2)
+- Uso das tags <a> e <img>
+- Uso de atributos
+- introdução a CSS
+- 
