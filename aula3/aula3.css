@@ -1,0 +1,25 @@
+span {
+    font-size: x-large;
+    background-color: bisque;
+}
+
+p.texto {
+    font-size: xx-large;
+    color: blueviolet;
+}
+
+.global{
+    font-size: xx-large;
+    background-color: aquamarine;
+
+}
+
+#idh{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+#idp{
+    text-align: center;
+    color: cornflowerblue;
+}
