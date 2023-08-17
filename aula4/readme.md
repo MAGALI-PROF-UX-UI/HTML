@@ -1,8 +1,3 @@
-```css
-seletor {
-    propriedade: valor;
-}
-```
 
 # AULA 4 - CSS basico
 ## Color
