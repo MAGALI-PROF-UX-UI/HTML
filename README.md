@@ -15,3 +15,14 @@ conteudo das aulas
 - introdução a o CSS
 - Seletores basicos
 
+## Aula 4 - [CSS-PARTE 2](https://github.com/MAGALI-PROF-UX-UI/HTML/tree/main/aula4)
+- Color
+- - RGB
+  - HEX
+  - HSL
+- backgound
+- border
+- margin
+- padding
+- width & height
+
