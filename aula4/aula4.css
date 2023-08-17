@@ -1,0 +1,64 @@
+p {
+    font-size: xx-large;
+}
+
+#rgb {
+    color: rgb(255, 0, 0);
+}
+
+#hex {
+    color: #0000FF;
+}
+
+#hsl{
+    color: hsl(100, 100%, 50%);
+}
+
+#bg-color{
+    background-color: #8a2be2;
+}
+
+#bg-img {
+    width: 1000px;
+    height: 668px;
+    padding-top: 334px;
+    background-image: url("photo.jpg");
+    background-repeat: no-repeat;
+}
+
+#bg-text{
+    background-color: #FFFFFFA0;
+}
+
+#border{
+    border: 10px solid #000000;
+}
+
+#margin{
+    margin-top: 500px;
+}
+
+#pcenter{
+    padding-left: 250px;
+}
+
+#pend{
+    padding-left: 500px;
+}
+
+#pbegin{
+    padding-left: 50px;
+}
+
+#circle{
+    width: 500px;
+    height: 500px;
+    border: 50px solid black;
+    border-radius: 50%;
+    display: table;
+}
+#pcircle{
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
