@@ -11,7 +11,7 @@ conteudo das aulas
 - Uso de atributos
 - introdução a CSS
 
-##Aula 3 - [CSS](https://github.com/MAGALI-PROF-UX-UI/HTML/tree/main/aula3)
+## Aula 3 - [CSS](https://github.com/MAGALI-PROF-UX-UI/HTML/tree/main/aula3)
 - introdução a o CSS
 - Seletores basicos
 
